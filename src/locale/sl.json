@@ -1,0 +1,30 @@
+{
+  "add": "+ Dodaj",
+  "all": "Vsi",
+  "connect": "poveži",
+  "inbox_message": {
+    "one": "%{count} sporočilo v%{group_name} predalu",
+    "two": "%{count} sporočili v %{group_name} predalu",
+    "few": "%{count} sporočila v %{group_name} predalu",
+    "other": "%{count} sporočil v %{group_name} predalu"
+  },
+  "last_updated": "Zadnja posodobitev:",
+  "liked": "je všečkal %{count} vaš prispevek",
+  "liked_more": {
+    "one": "%{user1}, %{user2} in %{count} drug",
+    "two": "%{user1}, %{user2} in %{count} druga",
+    "few": "%{user1}, %{user2} in %{count} drugi",
+    "other": "%{user1}, %{user2} in %{count} drugih"
+  },
+  "loading": "Nalagam...",
+  "new_with_count": "nova (%{count})",
+  "new": "Nove",
+  "notifications": "Obvestila",
+  "replies": "Odgovorov",
+  "unread_with_count": "neprebrana (%{count})",
+  "settings": "Nastavitve",
+  "discover_reset": "Pokaži vse",
+  "discover_all": "vse",
+  "discover_recent": "nedavno",
+  "cancel": "Prekliči"
+}

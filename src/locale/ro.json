@@ -1,0 +1,16 @@
+{
+  "add": "+ Adaugă",
+  "all": "Toate",
+  "connect": "conectează-te",
+  "last_updated": "Ultima actualizare:",
+  "loading": "Se încarcă...",
+  "new_with_count": "nou (%{count})",
+  "new": "Noi",
+  "notifications": "Notificări",
+  "replies": "Răspunsuri",
+  "unread_with_count": "necitit (%{count})",
+  "settings": "Setări",
+  "discover_all": "toate",
+  "discover_recent": "recente",
+  "cancel": "Anulare"
+}

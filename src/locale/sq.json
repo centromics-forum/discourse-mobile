@@ -1,0 +1,13 @@
+{
+  "all": "Të gjitha",
+  "loading": "Duke ngarkuar...",
+  "new_with_count": "të reja (%{count})",
+  "new": "Të reja",
+  "notifications": "Njoftimet",
+  "replies": "Përgjigje",
+  "unread_with_count": "të palexuara (%{count})",
+  "settings": "Rregullimet",
+  "discover_all": "të gjitha",
+  "discover_recent": "më të fundit",
+  "cancel": "Anulo"
+}

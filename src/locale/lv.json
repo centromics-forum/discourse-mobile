@@ -1,0 +1,15 @@
+{
+  "add": "+ Pievienot",
+  "all": "Visi",
+  "last_updated": "Pēdējoreiz atjaunots:",
+  "loading": "Ielādē...",
+  "new_with_count": "jauns (%{count})",
+  "new": "Jaunie",
+  "notifications": "Paziņojumi",
+  "replies": "Atbildes",
+  "unread_with_count": "nelasīts (%{count})",
+  "settings": "Iestatījumi",
+  "discover_all": "Viss",
+  "discover_recent": "neseni",
+  "cancel": "Atcelt"
+}

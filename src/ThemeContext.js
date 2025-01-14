@@ -1,0 +1,46 @@
+import React from "react";
+
+export const themes = {
+  light: {
+    background: "#FFFFFF",
+    buttonTextColor: "#FFFFFF",
+    grayBackground: "#f5f8fa",
+    grayBorder: "#ddd",
+    grayUI: "#919191",
+    grayUILight: "#e9e9e9",
+    graySubtitle: "#919191",
+    grayTabInactiveColor: "#454545",
+    grayTitle: "#222",
+    yellowUIFeedback: "#ffffa6",
+    blueCallToAction: "#08c",
+    blueUnread: "#0aadff",
+    redDanger: "#ee512a",
+    purpleChat: "#ad17f8",
+    greenPrivateUnread: "#01a84c",
+    tagButtonTextColor: "#444",
+    barStyle: "dark-content",
+    name: "light",
+  },
+  dark: {
+    background: "#111",
+    buttonTextColor: "#111",
+    grayBackground: "#212121",
+    grayBorder: "#343434",
+    grayUI: "#666",
+    grayUILight: "#232323",
+    graySubtitle: "#666",
+    grayTabInactiveColor: "#888",
+    grayTitle: "#999",
+    yellowUIFeedback: "#403f30",
+    blueCallToAction: "#0F82AF",
+    blueUnread: "#0F82AF",
+    purpleChat: "#ad17f8",
+    redDanger: "#e45735",
+    greenPrivateUnread: "#01a84c",
+    tagButtonTextColor: "#999",
+    barStyle: "light-content",
+    name: "dark",
+  },
+};
+
+export const ThemeContext = React.createContext(themes.light);
